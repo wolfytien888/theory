@@ -1904,7 +1904,7 @@
 	}
 
 		.flex.flex-2 article {
-			width: 30%;
+			width:47%;
 			margin-bottom: 3em;
 		}
 
@@ -1940,7 +1940,7 @@
 			}
 
 				.flex.flex-2 article:last-child {
-					margin-bottom: 0;
+					margin-bottom: 3em;
 				}
 
 			.flex.flex-3 {
